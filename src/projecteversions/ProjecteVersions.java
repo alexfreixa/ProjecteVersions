@@ -34,8 +34,7 @@ public class ProjecteVersions {
     }
     
     public int fantasma() {
-        int x=10;
-        return x;
+
     }
     
 }
