@@ -28,4 +28,9 @@ public class ProjecteVersions {
         return x;
     }
     
+    public int tercerMetode() {
+        int x=10;
+        return x;
+    }
+    
 }
