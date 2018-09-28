@@ -23,4 +23,9 @@ public class ProjecteVersions {
         return x;
     }
     
+    public int segonMetode() {
+        int x=10;
+        return x;
+    }
+    
 }
